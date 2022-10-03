@@ -1,0 +1,15 @@
+{
+  "name": "spoileralert",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Node.js",
+  "scripts": {
+    "start": "node Example.js",
+    "org": "node org.js"
+  },
+  "author": "John Fleurimond",
+  "license": "ISC",
+  "dependencies": {
+    "node": "^18.10.0"
+  }
+}
