@@ -7,7 +7,7 @@
     "start": "node Example.js",
     "org": "node org.js"
   },
-  "author": "John Fleurimond",
+  "author": "Darren Cole",
   "license": "ISC",
   "dependencies": {
     "node": "^18.10.0"
