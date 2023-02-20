@@ -9,7 +9,7 @@
 
 # Portfolio 
 
-** :computer: 🇭🇹  WEBSITE:** [Darren Cole](https://www.mightycole.com)
+ [Darren Cole](https://www.mightycole.com)
 
 ## Installation
 
