@@ -5,7 +5,7 @@
 ![Live Coding Sessions](public/App.png)
 
 # How It's Made :nut_and_bolt:🔨 :hammer::wrench::
- This application is built with Javasscript. 
+ This code written for hydra.xyz
 
 
 # How It's Works:white_check_mark::🖥 & Lessons Learned :mortar_board:  
@@ -21,4 +21,4 @@
 2. run `npm install`
 
 # How To Get It Started :arrow_forward: :
-In the project directory, you can run: `npm run org`
+
