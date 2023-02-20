@@ -9,7 +9,7 @@
 
 # Portfolio 
 
- [Darren Cole](https://www.mightycole.com)
+ [www.mightycole.com](https://www.mightycole.com)
 
 ## Installation
 
