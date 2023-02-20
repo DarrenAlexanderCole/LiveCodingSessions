@@ -1,11 +1,10 @@
 {
-  "name": "spoileralert",
+  "name": "darrenlexanderole",
   "version": "1.0.0",
   "description": "",
-  "main": "Node.js",
+  "main": "BM006_practice sesh.js",
   "scripts": {
-    "start": "node Example.js",
-    "org": "node org.js"
+    "org": "node BM006_practice sesh.js"
   },
   "author": "Darren Cole",
   "license": "ISC",
